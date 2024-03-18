@@ -102,9 +102,9 @@ https://templatemo.com/tm-588-ebook-landing
 
                         <div class="col-lg-6 col-12 mb-5 pb-5 pb-lg-0 mb-lg-0">
 
-                            <h6>Mono</h6>
+                            <h6>Seja autêntico com</h6>
 
-                            <h1 class="text-white mb-4">primeiro site do lucas</h1>
+                            <h1 class="text-white mb-4">Mono</h1>
 
                             <a href="#section_2" class="btn custom-btn smoothscroll me-3">Compre Agora</a>
 
